@@ -1,4 +1,4 @@
-language: C
+language: ruby
 
-    cache: bundler
-    sudo: false
+cache: bundler
+sudo: false
