@@ -1,0 +1,4 @@
+language: C
+
+    cache: bundler
+    sudo: false
